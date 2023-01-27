@@ -9,10 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to TekangBush23 paypal Web application Project automation.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">on this special occasion i wish to inform the world through my creative ability that there is someone is dearly love.</h1>
+<h1 align="center">she has been a big source of blessing not only to me but to my entire family.
+	of course she is no other person that Juliet but i refer to her as mum. i love you so much mum may God bless you always for me from Marccelus T Enoh </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
